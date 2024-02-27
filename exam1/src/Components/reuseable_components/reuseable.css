@@ -1,0 +1,31 @@
+.container {
+        height: 600px;
+        width: 900px;
+        border: 2px solid black;
+        border-radius: 5%;
+        background-color: white;
+        margin-top: 100px;
+        margin-left: 20%;
+
+}
+
+.container h1 {
+        font-size: 20px;
+        align-items: center;
+        margin-top: 10px;
+        justify-content: center;
+        padding-left: 50%;
+
+}
+.powder{
+        
+        margin: 40px;
+        height: auto;
+        border-radius: 5%;
+        border: 2px  solid black;
+        background-color: wheat;
+}
+.powder img{
+        height: 50px;
+        width: 50px;
+}
